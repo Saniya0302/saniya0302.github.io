@@ -1,0 +1,70 @@
+body {
+    background: url(srs1.png);
+    
+}
+
+
+.ab {
+    width: 80%;
+    margin: 3px auto;
+    background-color: white;
+    box-shadow: 0 10px 15px;
+    border-radius: 10px;
+    padding: 20px;
+    background: url(srs2.png)
+    
+}
+.img {
+    display: block;
+    border-radius: 10%;
+    margin: 30px auto;
+}
+.text1 {
+    text-align: center;
+    font-family: algerian;
+    font-size: 40px;
+    margin-right: 1cm; 
+	margin-left: 1cm;
+
+
+}
+.text {
+    
+    font-family: algerian;
+    font-size: 18px;
+    margin-right: 1cm; 
+	margin-left: 1cm;
+    color: black;
+}
+.text2{
+    text-align: center;
+    font-family: algerian;
+    font-size: 40px;
+    margin-right: 1cm; 
+    margin-left: 1cm;}
+
+.table {
+    cursor: pointer;
+    margin: 0 auto;
+    text-align: center;
+    border: 3px solid black;
+    border-color: rgb(0, 0, 0); 
+    width: 100%; 
+    height: 300px;
+    border-radius: 10px; 
+    font-family: algerian;
+    color:  black;
+}
+
+th:hover {
+    background-color: rgb(255, 197, 148);
+
+}
+td:hover {
+    background-color: rgb(195, 98, 65);
+}
+
+
+
+
+   
